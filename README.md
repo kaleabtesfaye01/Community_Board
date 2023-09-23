@@ -15,14 +15,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] Buttons or links to a related resources are on each card component
+- [x] Buttons or links to related resources are on each card component
 - [x] The site is responsive for both desktop and mobile formats
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/cDbZfg4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/cDbZfg4.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
 
 ## Notes
 
