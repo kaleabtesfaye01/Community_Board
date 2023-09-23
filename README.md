@@ -22,7 +22,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/cDbZfg4.gif' title='Video Walkthrough' width='100px' alt='Video Walkthrough' />
+<a href="https://www.loom.com/share/987580fe11454722b462774a0b6d6bf4">
+  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/987580fe11454722b462774a0b6d6bf4-with-play.gif">
+</a>
+
 
 ## Notes
 
